@@ -1,35 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Rushikesh Medhe - Backend Developer</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f5f5f5;
-  }
-  header {
-    background-color: #007bff;
-    color: white;
-    text-align: center;
-    padding: 1rem;
-  }
-  h1 {
-    margin: 0;
-  }
-  .container {
-    max-width: 800px;
-    margin: 2rem auto;
-    padding: 2rem;
-    background-color: white;
-    border-radius: 5px;
-    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
-  }
-</style>
-</head>
+
 <body>
   <header>
     <h1>Rushikesh Medhe</h1>
@@ -43,4 +12,3 @@
     <p>LinkedIn: <a href="https://www.linkedin.com/in/rushikesh-medhe-87869b214/">linkedin.com/in/rushikeshmedhe</a></p>
   </div>
 </body>
-</html>
